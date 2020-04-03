@@ -1,12 +1,9 @@
 # Laravel Token
 
-![Laravel](http://getfreetutorial.com/wp-content/uploads/2016/07/Laravel-From-Scratch.jpg)
+![Laravel](https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg)
 
+[![Total Downloads](https://img.shields.io/packagist/dt/league/skeleton.svg?style=flat-square)](https://packagist.org/packages/olakunlevpn/token)
 
-<p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
-</p>
 
 Laravel unique Token Generator 
 ```php
