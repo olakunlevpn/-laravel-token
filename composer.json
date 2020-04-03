@@ -3,7 +3,7 @@
     "description": "Unique Token Generator For Laravel",
     "authors": [
         {
-            "name": "MustafaKhaled",
+            "name": "olakunlevpn",
             "email": "olakunlevpn@live.com"
         }
     ],
@@ -18,7 +18,7 @@
     ],
     "license": "MIT",
     "require": {
-        "php": ">=5.6"
+        "php": "^7.2.5",
     },
     "autoload": {
         "psr-4": {
