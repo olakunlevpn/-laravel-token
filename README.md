@@ -2,6 +2,12 @@
 
 ![Laravel](http://getfreetutorial.com/wp-content/uploads/2016/07/Laravel-From-Scratch.jpg)
 
+
+<p align="center">
+<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
+</p>
+
 Laravel unique Token Generator 
 ```php
 // Generate unique Token From Database.
