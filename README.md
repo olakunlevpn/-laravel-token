@@ -185,4 +185,4 @@ Token::Random($size,true);
 
 ## License
 
-[MIT](LICENSE) © [Mustafa Khaled](https://github.com/mustafakhaleddev)
+[MIT](LICENSE) © [Olakunlevpn](https://github.com/olakunlevpn)
